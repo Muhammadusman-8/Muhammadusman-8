@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Muhammadusman-8
-- 👀 I’m interested in learnig and Exploiting New Technologies introducing in CyberSpace.
+- 👀 I’m interested in learning and Exploiting New Technologies introducing in CyberSpace.
 - 🌱 I’m currently learning Digital Forensics& Cyber Security
 - 💞️ I’m looking to collaborate on Security Breaches and Web Application Vunerablities
 - 📫 How to reach me
